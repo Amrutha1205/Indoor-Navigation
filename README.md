@@ -8,7 +8,7 @@ WayPoint is a QR-assisted indoor navigation system that helps users find the sho
 
 The system models buildings as graphs and uses Dijkstra's algorithm to compute the shortest path between locations.
 ---
-
+Deployed Link:[https://waypoint-indoornaviagtion.netlify.app/](url)
 ## Features
 
 - Interactive indoor map visualization
